@@ -1,0 +1,8 @@
+numpy
+pandas
+pyyaml
+statsforecast
+lightgbm
+# optional, for the pretrained models Chronos and Chronos2
+torch
+chronos-forecasting
